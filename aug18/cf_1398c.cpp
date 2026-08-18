@@ -1,4 +1,4 @@
-// https://codeforces.com/problemset/problem/1398/C
+// Source: https://usaco.guide/general/io
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -32,4 +32,3 @@ int main() {
     while(t--) solve();
     return 0;
 }
-
